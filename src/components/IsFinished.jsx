@@ -51,4 +51,3 @@ function IsFinished({ postId }) {
 }
 
 export default IsFinished;
-
